@@ -2,7 +2,7 @@
 
 d2l.ai: 2.3 Linear Algebra [https://d2l.ai/chapter\_preliminaries/linear-algebra.html](https://d2l.ai/chapter_preliminaries/linear-algebra.html)
 
-### Prove that $$(A^T)^T = A.$$
+### Prove$$(A^T)^T = A.$$
 
 1. $$(A^T)^T = A$$
 2. $$(A+B)^T = A^T+B^T$$
@@ -27,7 +27,11 @@ Is every nonsingular matrix diagonally equivalent to a matrix with all distinct 
 
 Every invertible matrix is diagonally equivalent to a matrix with distinct eigenvalues [https://www.sciencedirect.com/science/article/pii/S0024379511008263](https://www.sciencedirect.com/science/article/pii/S0024379511008263)
 
-### Show that the sum of a transpose is equal to the transpose of the sum: $$A^T + B^T = (A+B)^T.$$ 
+### Show that the sum of a transpose is equal to the transpose of a sum: $$A^T + B^T = (A+B)^T.$$ 
 
+[https://math.stackexchange.com/questions/1212639/proof-that-abt-atbt-homework-question](https://math.stackexchange.com/questions/1212639/proof-that-abt-atbt-homework-question)
 
+### Given a square matrix $$A$$, prove $$A + A^T$$is symmetric.
+
+[https://math.stackexchange.com/questions/506424/how-to-prove-a-at-symmetric-a-at-skew-symmetric](https://math.stackexchange.com/questions/506424/how-to-prove-a-at-symmetric-a-at-skew-symmetric)
 
