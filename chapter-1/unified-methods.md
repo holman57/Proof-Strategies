@@ -1,6 +1,12 @@
 # Unified Methods
 
-Proofing playbook
+### Contradiction
 
 
+
+### Contraposition
+
+
+
+### Induction
 
