@@ -9,6 +9,8 @@ d2l.ai: 2.3 Linear Algebra [https://d2l.ai/chapter\_preliminaries/linear-algebra
 3. $$(kA)^T = kA^T$$
 4. $$(AB)^T = B^T A^T$$
 
+[https://math.vanderbilt.edu/sapirmv/msapir/prtranspose.html](https://math.vanderbilt.edu/sapirmv/msapir/prtranspose.html)
+
 An [operator](https://mathworld.wolfram.com/Operator.html) of period 2, i.e., an [operator](https://mathworld.wolfram.com/Operator.html) $$*$$ which satisfies $$((a)^*)^*=a$$ 
 
 An operator $$A:f^{(n)} (I) \mapsto f(I)$$assigns to every function $$f \in f^{(n)} (I)$$a function $$f \in f^{(n)} (I)$$. It is therefore a mapping between two [function spaces](https://mathworld.wolfram.com/FunctionSpace.html). If the range is on the [real line](https://mathworld.wolfram.com/RealLine.html) or in the [complex plane](https://mathworld.wolfram.com/ComplexPlane.html), the mapping is usually called a [functional](https://mathworld.wolfram.com/Functional.html) instead.
