@@ -10,4 +10,5 @@
 ---
 
 * [Problem Set](problem-set.md)
+* [Interesting Topics](interesting-topics.md)
 
