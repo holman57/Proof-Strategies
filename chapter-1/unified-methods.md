@@ -20,3 +20,9 @@ In logic and mathematics, contraposition refers to the inference of going from a
 
 ### Induction
 
+### Recursion
+
+Corecursion and coinduction
+
+[https://www.cl.cam.ac.uk/archive/mjcg/plans/Coinduction.pdf](https://www.cl.cam.ac.uk/archive/mjcg/plans/Coinduction.pdf)
+
