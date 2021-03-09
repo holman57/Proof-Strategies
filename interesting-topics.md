@@ -1,6 +1,6 @@
 # Interesting Topics
 
-Positive definate matrix
+Positive definite matrix
 
 [https://towardsdatascience.com/what-is-a-positive-definite-matrix-181e24085abd](https://towardsdatascience.com/what-is-a-positive-definite-matrix-181e24085abd)
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Proof Strategies](README.md)
-* [Syntax](syntax.md)
+* [Notation](syntax.md)
 
 ## Chapter 1
 
